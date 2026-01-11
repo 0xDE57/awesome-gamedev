@@ -924,7 +924,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [83]: http://helm-engine.org/
 [84]: https://github.com/LambdaHack/LambdaHack
 [85]: https://bandcamp.com/tag/creative-commons
-[86]: http://libgdx.badlogicgames.com/
+[86]: https://libgdx.com
 [87]: http://www.limejs.com/
 [88]: http://loomsdk.com/
 [89]: http://lycheejs.org/index.html
@@ -1229,7 +1229,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [392]: http://osgameclones.com/
 [393]: http://www.zengl.org/
 [394]: http://www.zengl.org/license.html
-[395]: http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/
+[395]: https://liberatedpixelcup.github.io/Universal-LPC-Spritesheet-Character-Generator/ 
 [396]: http://google.github.io/liquidfun/
 [400]: https://github.com/ocornut/imgui
 [401]: http://www.glfw.org/
